@@ -55,7 +55,7 @@ figure:hover+span {
     width: 100%;
 }
 /* Gray Scale */
-.hover08 figure img {	
+/* .hover08 figure img {	
 	-webkit-filter: grayscale(100%);
 	-moz-filter: grayscale(100%);
 	-ms-filter: grayscale(100%);
@@ -72,7 +72,7 @@ figure:hover+span {
 	-o-filter: grayscale(0);
 	-ms-filter: grayscale(0);
 	filter: grayscale(0);
-}
+} */
 .gallery_effect {
     padding: 10px;
     background: #fff;
